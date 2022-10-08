@@ -1,32 +1,28 @@
 {
     "results": [
         {
-            "results": [
-                {
-                    "name": "nasthar",
-                    "score": 10,
-                    "level": "High",
-                    "id": 1
-                },
-                {
-                    "name": "aysha",
-                    "score": 5,
-                    "level": "Mediu",
-                    "id": 2
-                },
-                {
-                    "name": "sahil",
-                    "score": 9,
-                    "level": "Mediu",
-                    "id": 3
-                },
-                {
-                    "name": "nasi",
-                    "score": 5,
-                    "level": "High",
-                    "id": 4
-                }
-            ]
+            "name": "nasthar",
+            "score": 10,
+            "level": "High",
+            "id": 1
+        },
+        {
+            "name": "aysha",
+            "score": 5,
+            "level": "Mediu",
+            "id": 2
+        },
+        {
+            "name": "sahil",
+            "score": 9,
+            "level": "Mediu",
+            "id": 3
+        },
+        {
+            "name": "nasi",
+            "score": 5,
+            "level": "High",
+            "id": 4
         }
     ]
 }
