@@ -1,28 +1,144 @@
 {
-    "results": [
-        {
-            "name": "nasthar",
-            "score": 10,
-            "level": "High",
-            "id": 1
-        },
-        {
-            "name": "aysha",
-            "score": 5,
-            "level": "Mediu",
-            "id": 2
-        },
-        {
-            "name": "sahil",
-            "score": 9,
-            "level": "Mediu",
-            "id": 3
-        },
-        {
-            "name": "nasi",
-            "score": 5,
-            "level": "High",
-            "id": 4
-        }
+    "data": [
+      {
+        "id": 1,
+        "name": "Lucinda",
+        "age": 12,
+        "place": "873 Delaware Drive",
+        "gender": "Female"
+      },
+      {
+        "id": 2,
+        "name": "Georgia",
+        "age": 13,
+        "place": "35516 Memorial Center",
+        "gender": "Female"
+      },
+      {
+        "id": 3,
+        "name": "Charissa",
+        "age": 4,
+        "place": "4795 Nelson Court",
+        "gender": "Male"
+      },
+      {
+        "id": 4,
+        "name": "Andreana",
+        "age": 13,
+        "place": "727 Alpine Circle",
+        "gender": "Female"
+      },
+      {
+        "id": 5,
+        "name": "Anita",
+        "age": 14,
+        "place": "29 Meadow Valley Circle",
+        "gender": "Female"
+      },
+      {
+        "id": 6,
+        "name": "Lucina",
+        "age": 10,
+        "place": "61144 Mcguire Road",
+        "gender": "Female"
+      },
+      {
+        "id": 7,
+        "name": "Janessa",
+        "age": 7,
+        "place": "33640 Rockefeller Road",
+        "gender": "Female"
+      },
+      {
+        "id": 8,
+        "name": "Marjy",
+        "age": 8,
+        "place": "6 Anthes Trail",
+        "gender": "Male"
+      },
+      {
+        "id": 9,
+        "name": "Cher",
+        "age": 15,
+        "place": "6 Haas Crossing",
+        "gender": "Female"
+      },
+      {
+        "id": 10,
+        "name": "Marijo",
+        "age": 7,
+        "place": "328 Amoth Drive",
+        "gender": "Male"
+      },
+      {
+        "id": 11,
+        "name": "Koralle",
+        "age": 4,
+        "place": "04 Pennsylvania Crossing",
+        "gender": "Female"
+      },
+      {
+        "id": 12,
+        "name": "Hortense",
+        "age": 10,
+        "place": "2406 Farwell Park",
+        "gender": "Male"
+      },
+      {
+        "id": 13,
+        "name": "Clara",
+        "age": 7,
+        "place": "78816 Lindbergh Parkway",
+        "gender": "Female"
+      },
+      {
+        "id": 14,
+        "name": "Emelina",
+        "age": 15,
+        "place": "462 Corben Alley",
+        "gender": "Male"
+      },
+      {
+        "id": 15,
+        "name": "Barbara",
+        "age": 6,
+        "place": "302 Jana Court",
+        "gender": "Male"
+      },
+      {
+        "id": 16,
+        "name": "Cesya",
+        "age": 13,
+        "place": "1 Briar Crest Junction",
+        "gender": "Male"
+      },
+      {
+        "id": 17,
+        "name": "Liz",
+        "age": 10,
+        "place": "3 Shoshone Plaza",
+        "gender": "Female"
+      },
+      {
+        "id": 18,
+        "name": "Lettie",
+        "age": 14,
+        "place": "89 Carpenter Center",
+        "gender": "Female"
+      },
+      {
+        "id": 19,
+        "name": "Lotte",
+        "age": 3,
+        "place": "0100 Park Meadow Terrace",
+        "gender": "Female"
+      },
+      {
+        "id": 20,
+        "name": "Billie",
+        "age": 3,
+        "place": "491 Clyde Gallagher Road",
+        "gender": "Female"
+      }
     ]
-}
+  }
