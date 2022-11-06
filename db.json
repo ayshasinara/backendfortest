@@ -1,144 +1,242 @@
 {
-    "data": [
+    "products": [
       {
-        "id": 1,
-        "name": "Lucinda",
-        "age": 12,
-        "place": "873 Delaware Drive",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/41Bb3FyplZL._SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Xiaomi 11T Pro 5G Hyperphone",
+        "MainCatogery": "electronics",
+        "SubCatogery": "mobile",
+        "id": 1
       },
       {
-        "id": 2,
-        "name": "Georgia",
-        "age": 13,
-        "place": "35516 Memorial Center",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/41jna+YGP+L._SY300_SX300_.jpg",
+        "name": "Samsung Galaxy M32 Prime Edition",
+        "MainCatogery": "electronics",
+        "SubCatogery": "mobile",
+        "id": 2
       },
       {
-        "id": 3,
-        "name": "Charissa",
-        "age": 4,
-        "place": "4795 Nelson Court",
-        "gender": "Male"
+        "name": "Redmi 9 Activ",
+        "url": "https://m.media-amazon.com/images/I/91kAtEXPIeL._SX679_.jpg",
+        "MainCatogery": "electronics",
+        "SubCatogery": "mobile",
+        "id": 3
       },
       {
-        "id": 4,
-        "name": "Andreana",
-        "age": 13,
-        "place": "727 Alpine Circle",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/51GSe9rxsoL._SX679_.jpg",
+        "name": "Nokia 105",
+        "MainCatogery": "electronics",
+        "SubCatogery": "mobile",
+        "id": 4
       },
       {
-        "id": 5,
-        "name": "Anita",
-        "age": 14,
-        "place": "29 Meadow Valley Circle",
-        "gender": "Female"
+        "name": "Samsung Galaxy M13",
+        "url": "https://m.media-amazon.com/images/I/81-fFXQdPTL._SX679_.jpg",
+        "MainCatogery": "electronics",
+        "SubCatogery": "mobile",
+        "id": 5
       },
       {
-        "id": 6,
-        "name": "Lucina",
-        "age": 10,
-        "place": "61144 Mcguire Road",
-        "gender": "Female"
+        "name": "OnePlus Nord CE 2 ",
+        "url": "https://m.media-amazon.com/images/I/41HSkMxLEJL._SX300_SY300_QL70_FMwebp_.jpg",
+        "MainCatogery": "electronics",
+        "SubCatogery": "mobile",
+        "id": 6
       },
       {
-        "id": 7,
-        "name": "Janessa",
-        "age": 7,
-        "place": "33640 Rockefeller Road",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/41uXxOM7XmL._SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Acer Extensa 15 Lightweight Laptop",
+        "MainCatogery": "electronics",
+        "SubCatogery": "laptop",
+        "id": 7
       },
       {
-        "id": 8,
-        "name": "Marjy",
-        "age": 8,
-        "place": "6 Anthes Trail",
-        "gender": "Male"
+        "url": "https://m.media-amazon.com/images/I/61q6ZSqYmcL._SX679_.jpg",
+        "name": "Samsung Galaxy Book2 Pro",
+        "MainCatogery": "electronics",
+        "SubCatogery": "laptop",
+        "id": 8
       },
       {
-        "id": 9,
-        "name": "Cher",
-        "age": 15,
-        "place": "6 Haas Crossing",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/71S8U9VzLTL._SX679_.jpg",
+        "name": "ASUS VivoBook 15",
+        "MainCatogery": "electronics",
+        "SubCatogery": "laptop",
+        "id": 9
       },
       {
-        "id": 10,
-        "name": "Marijo",
-        "age": 7,
-        "place": "328 Amoth Drive",
-        "gender": "Male"
+        "SubCatogery": "smartwatch",
+        "url": "https://m.media-amazon.com/images/I/61u--Fe7+xL._SX679_.jpg",
+        "name": "Noise ColorFit Pulse 2",
+        "MainCatogery": "electronics",
+        "id": 10
       },
       {
-        "id": 11,
-        "name": "Koralle",
-        "age": 4,
-        "place": "04 Pennsylvania Crossing",
-        "gender": "Female"
+        "name": "Fire-Boltt Ninja 3 Smartwatch",
+        "url": "https://m.media-amazon.com/images/I/61F3eRezP-L._SX679_.jpg",
+        "MainCatogery": "electronics",
+        "SubCatogery": "smartwatch",
+        "id": 11
       },
       {
-        "id": 12,
-        "name": "Hortense",
-        "age": 10,
-        "place": "2406 Farwell Park",
-        "gender": "Male"
+        "url": "https://m.media-amazon.com/images/I/618mFEP9mTL._SX679_.jpg",
+        "name": "Noise ColorFit Pulse Grand Smart",
+        "MainCatogery": "electronics",
+        "SubCatogery": "smartwatch",
+        "id": 12
       },
       {
-        "id": 13,
-        "name": "Clara",
-        "age": 7,
-        "place": "78816 Lindbergh Parkway",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/51CcDXwx-VL._UX679_.jpg",
+        "name": "BIBA Women's Cotton a-line Mini Dress",
+        "MainCatogery": "dress",
+        "SubCatogery": "women",
+        "id": 13
       },
       {
-        "id": 14,
-        "name": "Emelina",
-        "age": 15,
-        "place": "462 Corben Alley",
-        "gender": "Male"
+        "url": "https://m.media-amazon.com/images/I/81wH7CGIWbL._UY879_.jpg",
+        "name": "BIBA Women's Cotton a-line Floor Length Dress",
+        "MainCatogery": "dress",
+        "SubCatogery": "women",
+        "id": 14
       },
       {
-        "id": 15,
-        "name": "Barbara",
-        "age": 6,
-        "place": "302 Jana Court",
-        "gender": "Male"
+        "url": "https://m.media-amazon.com/images/I/517XIXP42gL._UX679_.jpg",
+        "name": "BIBA Women's Cotton Fit and Flare Below The Knee Dress",
+        "MainCatogery": "dress",
+        "SubCatogery": "women",
+        "id": 15
       },
       {
-        "id": 16,
-        "name": "Cesya",
-        "age": 13,
-        "place": "1 Briar Crest Junction",
-        "gender": "Male"
+        "name": "BIBA Women's Cotton Regular Kurta",
+        "url": "https://m.media-amazon.com/images/I/819bLthX37L._UY879_.jpg",
+        "MainCatogery": "dress",
+        "SubCatogery": "women",
+        "id": 16
       },
       {
-        "id": 17,
-        "name": "Liz",
-        "age": 10,
-        "place": "3 Shoshone Plaza",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/51YKV9lg8eL._UX679_.jpg",
+        "name": "V MART Men's Regular Fit T-Shirt",
+        "MainCatogery": "dress",
+        "SubCatogery": "men",
+        "id": 17
       },
       {
-        "id": 18,
-        "name": "Lettie",
-        "age": 14,
-        "place": "89 Carpenter Center",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/71drGMpS1eL._UX679_.jpg",
+        "name": "V MART Men's Regular Fit Shirt",
+        "MainCatogery": "dress",
+        "SubCatogery": "men",
+        "id": 18
       },
       {
-        "id": 19,
-        "name": "Lotte",
-        "age": 3,
-        "place": "0100 Park Meadow Terrace",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/518eA5S6E6L._UX679_.jpg",
+        "name": "STOP Cotton Blend Regular Fit Mens Track Pants",
+        "MainCatogery": "dress",
+        "SubCatogery": "men",
+        "id": 19
       },
       {
-        "id": 20,
-        "name": "Billie",
-        "age": 3,
-        "place": "491 Clyde Gallagher Road",
-        "gender": "Female"
+        "url": "https://m.media-amazon.com/images/I/714BK7dZsqL._UX679_.jpg",
+        "name": "Amazon Brand - Jam & Honey Baby-Girls Casual Dress",
+        "MainCatogery": "dress",
+        "SubCatogery": "kids",
+        "id": 20
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/91moMCxG-GL._UX679_.jpg",
+        "name": "Amazon Brand",
+        "MainCatogery": "dress",
+        "SubCatogery": "kids",
+        "id": 21
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/61AjKQSFMhL._UY695_.jpg",
+        "name": "Centrino Men Formal Shoe",
+        "MainCatogery": "shoes",
+        "SubCatogery": "men",
+        "id": 22
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/61RzGnUmPqL._UY695_.jpg",
+        "name": "Centrino Black Formal Shoe for Mens 8233-1",
+        "MainCatogery": "shoes",
+        "SubCatogery": "men",
+        "id": 23
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/61RzGnUmPqL._UY695_.jpg",
+        "name": "Centrino Black Formal Shoe for Mens 8233-1",
+        "MainCatogery": "shoes",
+        "SubCatogery": "men",
+        "id": 24
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/71rYxtbE8SS._UX695_.jpg",
+        "name": "BATA Mens Boss-Grip Uniform Dress Shoe",
+        "MainCatogery": "shoes",
+        "SubCatogery": "men",
+        "id": 25
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/71+djfVNgHL._UX695_.jpg",
+        "name": "BATA Women Softy Blue",
+        "MainCatogery": "shoes",
+        "SubCatogery": "women",
+        "id": 26
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/61ed5lSaRML._UY695_.jpg",
+        "name": "Aqualite Womens Trending Shoe",
+        "MainCatogery": "shoes",
+        "SubCatogery": "women",
+        "id": 27
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/61SrQsdiA3L._UX695_.jpg",
+        "name": "Clarks Womens",
+        "MainCatogery": "shoes",
+        "SubCatogery": "women",
+        "id": 28
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/91lhMtWxtdL._UX679_.jpg",
+        "name": "Mokobara The Transit Backpack Laptop Bag for Men",
+        "MainCatogery": "bag",
+        "SubCatogery": "men",
+        "id": 29
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/71xLgnnPSVL._UX679_.jpg",
+        "name": "Mokobara Backpack 15.5\" Inch Laptop Backpack",
+        "MainCatogery": "bag",
+        "SubCatogery": "women",
+        "id": 30
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/91pwFRgKanL._UX679_.jpg",
+        "name": "Gear Classic 20L Faux Leather",
+        "MainCatogery": "bag",
+        "SubCatogery": "men",
+        "id": 31
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/71-eKJMu+JL._UX679_.jpg",
+        "name": "Toyshine Kids Backpack",
+        "MainCatogery": "bag",
+        "SubCatogery": "kids",
+        "id": 32
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/719rFirOBAL._UX679_.jpg",
+        "name": "Unicorn Backpacks",
+        "MainCatogery": "bag",
+        "SubCatogery": "kids",
+        "id": 33
+      },
+      {
+        "url": "https://m.media-amazon.com/images/I/615G58Z23EL._UX679_.jpg",
+        "name": "Frantic Kids Soft Cartoon Animal Velvet Plush School Backpack ",
+        "MainCatogery": "bag",
+        "SubCatogery": "kids",
+        "id": 34
       }
     ]
   }
